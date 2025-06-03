@@ -97,8 +97,4 @@ test.use({ storageState: 'storage/login-state.json' });
 * TC04 & TC05 (Login dengan Google/LinkedIn) **dilewati** (`test.skip`) karena butuh akun OAuth test khusus.
 * Locator seperti `text=Dashboard` bisa berubah — pastikan sesuai dengan teks aktual.
 
----
 
-## 🧑‍💻 Kontak
-
-Untuk pertanyaan teknis, silakan hubungi QA engineer atau admin proyek ini.
